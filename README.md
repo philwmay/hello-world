@@ -1,2 +1,2 @@
 # hello-world
-Initial Repository to learn more about GitHub
+Initial Repository to learn more about Git-Hub
